@@ -1,0 +1,4 @@
+testcases\LoginTest.class
+testcases\DataDrivenWithCSV.class
+utilities\ExcelReader.class
+testcases\Parametarization.class
